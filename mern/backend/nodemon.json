@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "msanskriti24",
+    "DB_PASSWORD": "sanskriti",
+    "DB_NAME": "mern",
+    "GOOGLE_API_KEY": "AIzaSyAe77YdaN5Z1Eq45xsao3xy_lj7oQDaOKE",
+    "JWT_KEY": "supersecret_dont_share"
+  }
+}
